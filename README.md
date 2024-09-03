@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabriel081104
+- 👋 Hi, I’m Pranathi
 - 👀 I’m interested in full stack web developing
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on frontend web developing
